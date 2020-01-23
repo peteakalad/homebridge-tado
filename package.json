@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/peteakalad/homebridge-tadoHeating.git"
   },
-  "author": "Peter Stevenson <pete@ihut.co.uk> (https://github.com/peteakalad/homebridge-tadoHeating)",
+  "author": "peteakalad (https://github.com/peteakalad/homebridge-tadoHeating)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/peteakalad/homebridge-tadoHeating/issues"
